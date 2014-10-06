@@ -1,6 +1,7 @@
 # Andrew Batty
-# Selection improvement ercise: Task 1
-# 29/09/2014
+# Selection improvement ercise:
+# Development exercice 1:
+# 06/10/2014
 
 month = int(input("Please enter a month as a number beteen 1-12: "))
 
